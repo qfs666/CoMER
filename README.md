@@ -1,6 +1,6 @@
 # CoMER
 CoMER训练自己的数据集格式
-<div align="center">    
+<div align="cesnter">    
  
 # CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition  
  
